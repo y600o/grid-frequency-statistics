@@ -1,36 +1,14 @@
-# 栅格频数统计
+# Raster frequency statistics
 
-#### Description
-ArcGIS工具箱脚本， 该脚本用于计算栅格数据的频数分布、百分比和累积百分比。
+#### Introduction
+ArcGIS Toolbox scripts, which are used to calculate the frequency distribution, percentage, and cumulative percentage of raster data.
 
-#### Software Architecture
-Software architecture description
+#### Installation tutorial
 
-#### Installation
+1. Download Raster Frequency Statistics.tbx
+2. Place Raster Frequency Statistics.tbx in the Toolboxes folder of the ArcGIS installation directory, the default path is as follows: C:Program Files (x86)ArcGISDesktop10.8ArcToolboxToolboxes
+3. Open ArcMap, right-click on ArcToolbox on the right, click Add Toolbox, open the above path and add Raster Frequency Statistics.tbx
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### Instructions for use
 
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. See readme.pdf
